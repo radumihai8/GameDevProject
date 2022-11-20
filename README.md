@@ -5,14 +5,10 @@
  - [x]  Create GitHub Repository
  - [x]  Work on the idea of ​​the game
 
-### Sprint 2
- - [x]  Create GitHub Repository
- - [x]  Work on the idea of ​​the game
-
- ### Sprint 3
+ ### Sprint 2
  - [x]  Start working on the map
  - [x]  Start working on the character and movement
 
-  ### Sprint 4
+  ### Sprint 3
  - [ ]  TBD
  - [ ]  TBD
