@@ -10,5 +10,8 @@
  - [x]  Start working on the character and movement
 
   ### Sprint 3
- - [ ]  TBD
- - [ ]  TBD
+ - [x]  Improve player movement
+ - [x]  Make camera follow the player
+ - [x]  Create animations for player (idle, move, jump)
+ - [x]  Create death event and place traps
+ - [x]  Make collectible items and display collected count
