@@ -15,3 +15,20 @@
  - [x]  Create animations for player (idle, move, jump)
  - [x]  Create death event and place traps
  - [x]  Make collectible items and display collected count
+
+### Sprint 4
+ - [x]  Create a sticky moving platform
+ - [x]  Fix player rotating on jump
+ - [x]  Add a finish object
+ - [x]  Import sound assets
+ - [x]  Add BG music
+ - [x]  Add sound effects on collect, death and jump and finish
+ - [x]  Create a second level
+ - [x]  Create a script to switch between levels
+
+### Sprint 5
+ - [x]  Add new levels
+ - [x]  Create start game menu
+ - [x]  Create end game menu
+ - [x]  Add moving platforms
+
